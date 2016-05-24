@@ -1,0 +1,45 @@
+body {
+background-color: teal;
+
+}
+
+.parent {
+width: 95%;
+height: 150px;
+background-color: tan;
+border: 0px solid black;
+border-radius: 10px;
+padding: 4px;
+margin: 0 auto;
+}
+
+
+
+.child01, .child02, .child03 {
+height: 50px;
+width: 32%;
+background-color: pink;
+border: 2px solid black;
+float:left;
+margin-left: 7px;
+color: gray;
+padding: 0px;
+margin-top: 50px;
+}
+
+
+.child01 {
+  background-color: red;
+}
+
+.child02 {
+  background-color: green;
+}
+
+.child03 {
+  background-color: blue;
+}
+
+p {
+  color: white;
+}
